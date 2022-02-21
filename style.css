@@ -1,0 +1,11 @@
+/* 5. Change the background color to your favourite color using the hex code (e.g. #00ff00) */
+
+body {
+    background-color: #ffffff;
+}
+
+h1 {
+    /* 6. Change the font for all h1 elements. */
+}
+
+/* 7. Add a p selector and change the font for p elements */
